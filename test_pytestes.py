@@ -9,7 +9,7 @@ def test_soma1():
 	assert soma(-1,3)==2
 	assert soma(1.2,2.3)==3.5
 	assert soma(2,2)==4
-
+	assert soma('2',2)==4
 def test_subtra1():
 	assert subtra(1,1)==0
 	assert subtra(3.2,2.2)==1
