@@ -1,8 +1,8 @@
 def soma(a,b):
 	try:
-    	   return float(a) + float(b)
-    	except:
-	   return None
+		return float(a) + float(b)
+	except:
+		return None
 def subtra(a,b):
 	subtra = a - b
 	return subtra
