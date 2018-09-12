@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/felipescs/TDE1_ES3.svg?branch=master)](https://travis-ci.org/felipescs/TDE1_ES3)
+[![Build Status](https://travis-ci.org/felipescs/TDE1_ES3.svg?branch=master)](https://travis-ci.org/felipescs/TDE1_ES3) [![Coverage Status](https://coveralls.io/repos/github/felipescs/TDE1_ES3/badge.svg?branch=master)](https://coveralls.io/github/felipescs/TDE1_ES3?branch=master)
